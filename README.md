@@ -1,6 +1,7 @@
 # Hi 👋, I'm Hazel
 
 A Blockchain developer from Florida, USA
+![](https://komarev.com/ghpvc/?username=hm17&color=ff69b4)
 
 📫 How to reach me hello@smartypants850.com
 
