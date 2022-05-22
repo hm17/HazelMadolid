@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Hazel</h1>
 
-<h3 align="center">A Blockchain developer from Florida, USA</h3>
+<h3 align="center">A Blockchain Engineer from Florida, USA</h3>
 
 <BR><BR>
-<p align="center">📫 How to reach me hello@smartypants850.com</p>
+<p align="center">📫 Reach me via LinkdIn www.linkedin.com/in/hazelmadolid</p>
 <BR><BR>
   
   <h3>GitHub Stats</h3>
