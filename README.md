@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hazel</h1>
 
-<h3 align="center">A Blockchain Engineer from Florida, USA</h3>
+<h3 align="center">A Full Stack Java Developer & Blockchain Engineer from Florida, USA</h3>
 
 <BR><BR>
 <p align="center">📫 Reach me via LinkdIn www.linkedin.com/in/hazelmadolid</p>
